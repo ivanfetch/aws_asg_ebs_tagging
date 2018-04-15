@@ -1,0 +1,4 @@
+**/.terraform/modules
+**/.terraform/plugins
+lambda/tmp/lambda.zip
+
